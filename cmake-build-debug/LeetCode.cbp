@@ -80,22 +80,25 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/MYDESK/work/LeetCode(C++)/LeetCode/C166.cpp">
+		<Unit filename="D:/MYDESK/work/LeetCode(C++)/LeetCode/competition/C166.cpp">
 			<Option target="CodeC"/>
 		</Unit>
-		<Unit filename="D:/MYDESK/work/LeetCode(C++)/LeetCode/C168.cpp">
+		<Unit filename="D:/MYDESK/work/LeetCode(C++)/LeetCode/competition/C168.cpp">
 			<Option target="CodeC"/>
 		</Unit>
-		<Unit filename="D:/MYDESK/work/LeetCode(C++)/LeetCode/C169.cpp">
+		<Unit filename="D:/MYDESK/work/LeetCode(C++)/LeetCode/competition/C169.cpp">
 			<Option target="CodeC"/>
 		</Unit>
-		<Unit filename="D:/MYDESK/work/LeetCode(C++)/LeetCode/C170.cpp">
+		<Unit filename="D:/MYDESK/work/LeetCode(C++)/LeetCode/competition/C170.cpp">
 			<Option target="CodeC"/>
 		</Unit>
-		<Unit filename="D:/MYDESK/work/LeetCode(C++)/LeetCode/D16.cpp">
+		<Unit filename="D:/MYDESK/work/LeetCode(C++)/LeetCode/competition/D16.cpp">
 			<Option target="CodeC"/>
 		</Unit>
 		<Unit filename="D:/MYDESK/work/LeetCode(C++)/LeetCode/topic/A653Two Sum IV - Input is a BST.cpp">
+			<Option target="CodeC"/>
+		</Unit>
+		<Unit filename="D:/MYDESK/work/LeetCode(C++)/LeetCode/typicalQuestions/数组排序.cpp">
 			<Option target="CodeC"/>
 		</Unit>
 		<Unit filename="D:/MYDESK/work/LeetCode(C++)/CMakeLists.txt">

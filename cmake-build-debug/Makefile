@@ -122,140 +122,140 @@ CodeC/fast:
 	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/build
 .PHONY : CodeC/fast
 
-LeetCode/C166.obj: LeetCode/C166.cpp.obj
+LeetCode/competition/C166.obj: LeetCode/competition/C166.cpp.obj
 
-.PHONY : LeetCode/C166.obj
-
-# target to build an object file
-LeetCode/C166.cpp.obj:
-	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/C166.cpp.obj
-.PHONY : LeetCode/C166.cpp.obj
-
-LeetCode/C166.i: LeetCode/C166.cpp.i
-
-.PHONY : LeetCode/C166.i
-
-# target to preprocess a source file
-LeetCode/C166.cpp.i:
-	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/C166.cpp.i
-.PHONY : LeetCode/C166.cpp.i
-
-LeetCode/C166.s: LeetCode/C166.cpp.s
-
-.PHONY : LeetCode/C166.s
-
-# target to generate assembly for a file
-LeetCode/C166.cpp.s:
-	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/C166.cpp.s
-.PHONY : LeetCode/C166.cpp.s
-
-LeetCode/C168.obj: LeetCode/C168.cpp.obj
-
-.PHONY : LeetCode/C168.obj
+.PHONY : LeetCode/competition/C166.obj
 
 # target to build an object file
-LeetCode/C168.cpp.obj:
-	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/C168.cpp.obj
-.PHONY : LeetCode/C168.cpp.obj
+LeetCode/competition/C166.cpp.obj:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/C166.cpp.obj
+.PHONY : LeetCode/competition/C166.cpp.obj
 
-LeetCode/C168.i: LeetCode/C168.cpp.i
+LeetCode/competition/C166.i: LeetCode/competition/C166.cpp.i
 
-.PHONY : LeetCode/C168.i
+.PHONY : LeetCode/competition/C166.i
 
 # target to preprocess a source file
-LeetCode/C168.cpp.i:
-	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/C168.cpp.i
-.PHONY : LeetCode/C168.cpp.i
+LeetCode/competition/C166.cpp.i:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/C166.cpp.i
+.PHONY : LeetCode/competition/C166.cpp.i
 
-LeetCode/C168.s: LeetCode/C168.cpp.s
+LeetCode/competition/C166.s: LeetCode/competition/C166.cpp.s
 
-.PHONY : LeetCode/C168.s
+.PHONY : LeetCode/competition/C166.s
 
 # target to generate assembly for a file
-LeetCode/C168.cpp.s:
-	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/C168.cpp.s
-.PHONY : LeetCode/C168.cpp.s
+LeetCode/competition/C166.cpp.s:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/C166.cpp.s
+.PHONY : LeetCode/competition/C166.cpp.s
 
-LeetCode/C169.obj: LeetCode/C169.cpp.obj
+LeetCode/competition/C168.obj: LeetCode/competition/C168.cpp.obj
 
-.PHONY : LeetCode/C169.obj
+.PHONY : LeetCode/competition/C168.obj
 
 # target to build an object file
-LeetCode/C169.cpp.obj:
-	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/C169.cpp.obj
-.PHONY : LeetCode/C169.cpp.obj
+LeetCode/competition/C168.cpp.obj:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/C168.cpp.obj
+.PHONY : LeetCode/competition/C168.cpp.obj
 
-LeetCode/C169.i: LeetCode/C169.cpp.i
+LeetCode/competition/C168.i: LeetCode/competition/C168.cpp.i
 
-.PHONY : LeetCode/C169.i
+.PHONY : LeetCode/competition/C168.i
 
 # target to preprocess a source file
-LeetCode/C169.cpp.i:
-	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/C169.cpp.i
-.PHONY : LeetCode/C169.cpp.i
+LeetCode/competition/C168.cpp.i:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/C168.cpp.i
+.PHONY : LeetCode/competition/C168.cpp.i
 
-LeetCode/C169.s: LeetCode/C169.cpp.s
+LeetCode/competition/C168.s: LeetCode/competition/C168.cpp.s
 
-.PHONY : LeetCode/C169.s
+.PHONY : LeetCode/competition/C168.s
 
 # target to generate assembly for a file
-LeetCode/C169.cpp.s:
-	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/C169.cpp.s
-.PHONY : LeetCode/C169.cpp.s
+LeetCode/competition/C168.cpp.s:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/C168.cpp.s
+.PHONY : LeetCode/competition/C168.cpp.s
 
-LeetCode/C170.obj: LeetCode/C170.cpp.obj
+LeetCode/competition/C169.obj: LeetCode/competition/C169.cpp.obj
 
-.PHONY : LeetCode/C170.obj
+.PHONY : LeetCode/competition/C169.obj
 
 # target to build an object file
-LeetCode/C170.cpp.obj:
-	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/C170.cpp.obj
-.PHONY : LeetCode/C170.cpp.obj
+LeetCode/competition/C169.cpp.obj:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/C169.cpp.obj
+.PHONY : LeetCode/competition/C169.cpp.obj
 
-LeetCode/C170.i: LeetCode/C170.cpp.i
+LeetCode/competition/C169.i: LeetCode/competition/C169.cpp.i
 
-.PHONY : LeetCode/C170.i
+.PHONY : LeetCode/competition/C169.i
 
 # target to preprocess a source file
-LeetCode/C170.cpp.i:
-	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/C170.cpp.i
-.PHONY : LeetCode/C170.cpp.i
+LeetCode/competition/C169.cpp.i:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/C169.cpp.i
+.PHONY : LeetCode/competition/C169.cpp.i
 
-LeetCode/C170.s: LeetCode/C170.cpp.s
+LeetCode/competition/C169.s: LeetCode/competition/C169.cpp.s
 
-.PHONY : LeetCode/C170.s
+.PHONY : LeetCode/competition/C169.s
 
 # target to generate assembly for a file
-LeetCode/C170.cpp.s:
-	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/C170.cpp.s
-.PHONY : LeetCode/C170.cpp.s
+LeetCode/competition/C169.cpp.s:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/C169.cpp.s
+.PHONY : LeetCode/competition/C169.cpp.s
 
-LeetCode/D16.obj: LeetCode/D16.cpp.obj
+LeetCode/competition/C170.obj: LeetCode/competition/C170.cpp.obj
 
-.PHONY : LeetCode/D16.obj
+.PHONY : LeetCode/competition/C170.obj
 
 # target to build an object file
-LeetCode/D16.cpp.obj:
-	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/D16.cpp.obj
-.PHONY : LeetCode/D16.cpp.obj
+LeetCode/competition/C170.cpp.obj:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/C170.cpp.obj
+.PHONY : LeetCode/competition/C170.cpp.obj
 
-LeetCode/D16.i: LeetCode/D16.cpp.i
+LeetCode/competition/C170.i: LeetCode/competition/C170.cpp.i
 
-.PHONY : LeetCode/D16.i
+.PHONY : LeetCode/competition/C170.i
 
 # target to preprocess a source file
-LeetCode/D16.cpp.i:
-	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/D16.cpp.i
-.PHONY : LeetCode/D16.cpp.i
+LeetCode/competition/C170.cpp.i:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/C170.cpp.i
+.PHONY : LeetCode/competition/C170.cpp.i
 
-LeetCode/D16.s: LeetCode/D16.cpp.s
+LeetCode/competition/C170.s: LeetCode/competition/C170.cpp.s
 
-.PHONY : LeetCode/D16.s
+.PHONY : LeetCode/competition/C170.s
 
 # target to generate assembly for a file
-LeetCode/D16.cpp.s:
-	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/D16.cpp.s
-.PHONY : LeetCode/D16.cpp.s
+LeetCode/competition/C170.cpp.s:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/C170.cpp.s
+.PHONY : LeetCode/competition/C170.cpp.s
+
+LeetCode/competition/D16.obj: LeetCode/competition/D16.cpp.obj
+
+.PHONY : LeetCode/competition/D16.obj
+
+# target to build an object file
+LeetCode/competition/D16.cpp.obj:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/D16.cpp.obj
+.PHONY : LeetCode/competition/D16.cpp.obj
+
+LeetCode/competition/D16.i: LeetCode/competition/D16.cpp.i
+
+.PHONY : LeetCode/competition/D16.i
+
+# target to preprocess a source file
+LeetCode/competition/D16.cpp.i:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/D16.cpp.i
+.PHONY : LeetCode/competition/D16.cpp.i
+
+LeetCode/competition/D16.s: LeetCode/competition/D16.cpp.s
+
+.PHONY : LeetCode/competition/D16.s
+
+# target to generate assembly for a file
+LeetCode/competition/D16.cpp.s:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/D16.cpp.s
+.PHONY : LeetCode/competition/D16.cpp.s
 
 LeetCode/topic/A653Two_Sum_IV_-_Input_is_a_BST.obj: LeetCode/topic/A653Two_Sum_IV_-_Input_is_a_BST.cpp.obj
 
@@ -284,6 +284,33 @@ LeetCode/topic/A653Two_Sum_IV_-_Input_is_a_BST.cpp.s:
 	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/topic/A653Two_Sum_IV_-_Input_is_a_BST.cpp.s
 .PHONY : LeetCode/topic/A653Two_Sum_IV_-_Input_is_a_BST.cpp.s
 
+LeetCode/typicalQuestions/数组排序.obj: LeetCode/typicalQuestions/数组排序.cpp.obj
+
+.PHONY : LeetCode/typicalQuestions/数组排序.obj
+
+# target to build an object file
+LeetCode/typicalQuestions/数组排序.cpp.obj:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/typicalQuestions/数组排序.cpp.obj
+.PHONY : LeetCode/typicalQuestions/数组排序.cpp.obj
+
+LeetCode/typicalQuestions/数组排序.i: LeetCode/typicalQuestions/数组排序.cpp.i
+
+.PHONY : LeetCode/typicalQuestions/数组排序.i
+
+# target to preprocess a source file
+LeetCode/typicalQuestions/数组排序.cpp.i:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/typicalQuestions/数组排序.cpp.i
+.PHONY : LeetCode/typicalQuestions/数组排序.cpp.i
+
+LeetCode/typicalQuestions/数组排序.s: LeetCode/typicalQuestions/数组排序.cpp.s
+
+.PHONY : LeetCode/typicalQuestions/数组排序.s
+
+# target to generate assembly for a file
+LeetCode/typicalQuestions/数组排序.cpp.s:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/typicalQuestions/数组排序.cpp.s
+.PHONY : LeetCode/typicalQuestions/数组排序.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -293,24 +320,27 @@ help:
 	@echo ... rebuild_cache
 	@echo ... CodeC
 	@echo ... edit_cache
-	@echo ... LeetCode/C166.obj
-	@echo ... LeetCode/C166.i
-	@echo ... LeetCode/C166.s
-	@echo ... LeetCode/C168.obj
-	@echo ... LeetCode/C168.i
-	@echo ... LeetCode/C168.s
-	@echo ... LeetCode/C169.obj
-	@echo ... LeetCode/C169.i
-	@echo ... LeetCode/C169.s
-	@echo ... LeetCode/C170.obj
-	@echo ... LeetCode/C170.i
-	@echo ... LeetCode/C170.s
-	@echo ... LeetCode/D16.obj
-	@echo ... LeetCode/D16.i
-	@echo ... LeetCode/D16.s
+	@echo ... LeetCode/competition/C166.obj
+	@echo ... LeetCode/competition/C166.i
+	@echo ... LeetCode/competition/C166.s
+	@echo ... LeetCode/competition/C168.obj
+	@echo ... LeetCode/competition/C168.i
+	@echo ... LeetCode/competition/C168.s
+	@echo ... LeetCode/competition/C169.obj
+	@echo ... LeetCode/competition/C169.i
+	@echo ... LeetCode/competition/C169.s
+	@echo ... LeetCode/competition/C170.obj
+	@echo ... LeetCode/competition/C170.i
+	@echo ... LeetCode/competition/C170.s
+	@echo ... LeetCode/competition/D16.obj
+	@echo ... LeetCode/competition/D16.i
+	@echo ... LeetCode/competition/D16.s
 	@echo ... LeetCode/topic/A653Two_Sum_IV_-_Input_is_a_BST.obj
 	@echo ... LeetCode/topic/A653Two_Sum_IV_-_Input_is_a_BST.i
 	@echo ... LeetCode/topic/A653Two_Sum_IV_-_Input_is_a_BST.s
+	@echo ... LeetCode/typicalQuestions/数组排序.obj
+	@echo ... LeetCode/typicalQuestions/数组排序.i
+	@echo ... LeetCode/typicalQuestions/数组排序.s
 .PHONY : help
 
 
