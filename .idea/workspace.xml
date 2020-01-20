@@ -12,22 +12,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="022e502f-d52d-41eb-a610-02da50b3d9d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/typicalQuestions/数组排序.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/competition/C171.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/competition/C172.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/C166.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/competition/C166.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/C168.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/competition/C168.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/C169.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/competition/C169.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/C170.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/competition/C170.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/D16.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/competition/D16.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/competition/C170.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/competition/C170.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/typicalQuestions/数组排序.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/typicalQuestions/sortArray.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/LeetCode/C166.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/LeetCode/C168.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/LeetCode/C169.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/LeetCode/C170.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/LeetCode/D16.cpp.obj" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/objects.a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/objects1.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CodeC.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CodeC.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/LeetCode.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LeetCode.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
     </list>
@@ -61,6 +68,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -145,7 +153,11 @@
       <workItem from="1578230372846" duration="17775000" />
       <workItem from="1578560171354" duration="10832000" />
       <workItem from="1578577475342" duration="801000" />
-      <workItem from="1578734006820" duration="19656000" />
+      <workItem from="1578734006820" duration="21073000" />
+      <workItem from="1578824433843" duration="20600000" />
+      <workItem from="1579164822399" duration="3000" />
+      <workItem from="1579327838196" duration="2617000" />
+      <workItem from="1579497655257" duration="7073000" />
     </task>
     <servers />
   </component>
@@ -166,61 +178,72 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="675" y="251" key="#LeetCode/0.0.1920.1050@0.0.1920.1050" timestamp="1578577649237" />
-    <state x="414" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578577610103">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="331" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578982993963">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="331" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1578982993963" />
     <state x="414" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1578577610103" />
     <state x="692" y="333" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578577639783">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="692" y="333" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1578577639783" />
-    <state x="742" y="243" key="#com.intellij.ide.util.MemberChooser" timestamp="1578287028739">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="594" y="193" key="#com.intellij.ide.util.MemberChooser" timestamp="1579331144899">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="594" y="193" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1579331144899" />
     <state x="742" y="243" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1578287028739" />
     <state width="414" height="466" key="DebuggerActiveHint" timestamp="1578207800496">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="414" height="466" key="DebuggerActiveHint/0.0.1920.1050@0.0.1920.1050" timestamp="1578207800496" />
-    <state width="1877" height="315" key="GridCell.Tab.0.bottom" timestamp="1578578278480">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1493" height="276" key="GridCell.Tab.0.bottom" timestamp="1578984021401">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="276" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578984021401" />
     <state width="1877" height="315" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578578278480" />
-    <state width="1877" height="315" key="GridCell.Tab.0.center" timestamp="1578578278480">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1493" height="276" key="GridCell.Tab.0.center" timestamp="1578984021401">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="276" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1578984021401" />
     <state width="1877" height="315" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578578278480" />
-    <state width="1877" height="315" key="GridCell.Tab.0.left" timestamp="1578578278480">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1493" height="276" key="GridCell.Tab.0.left" timestamp="1578984021401">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="276" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1578984021401" />
     <state width="1877" height="315" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578578278480" />
-    <state width="1877" height="315" key="GridCell.Tab.0.right" timestamp="1578578278480">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1493" height="276" key="GridCell.Tab.0.right" timestamp="1578984021401">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="276" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1578984021401" />
     <state width="1877" height="315" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578578278480" />
-    <state width="1877" height="366" key="GridCell.Tab.1.bottom" timestamp="1578577129532">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1493" height="276" key="GridCell.Tab.1.bottom" timestamp="1578984021402">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="276" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1578984021402" />
     <state width="1877" height="366" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1578577129532" />
-    <state width="1877" height="366" key="GridCell.Tab.1.center" timestamp="1578577129532">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1493" height="276" key="GridCell.Tab.1.center" timestamp="1578984021402">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="276" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1578984021402" />
     <state width="1877" height="366" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1578577129532" />
-    <state width="1877" height="366" key="GridCell.Tab.1.left" timestamp="1578577129532">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1493" height="276" key="GridCell.Tab.1.left" timestamp="1578984021402">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="276" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1578984021402" />
     <state width="1877" height="366" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1578577129532" />
-    <state width="1877" height="366" key="GridCell.Tab.1.right" timestamp="1578577129532">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1493" height="276" key="GridCell.Tab.1.right" timestamp="1578984021402">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state width="1493" height="276" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1578984021402" />
     <state width="1877" height="366" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1578577129532" />
     <state x="463" y="169" key="SettingsEditor" timestamp="1578578038460">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="463" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1578578038460" />
-    <state x="580" y="121" width="759" height="807" key="find.popup" timestamp="1578565224319">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="464" y="96" width="755" height="641" key="find.popup" timestamp="1578982624276">
+      <screen x="0" y="0" width="1536" height="834" />
     </state>
+    <state x="464" y="96" width="755" height="641" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1578982624276" />
     <state x="580" y="121" width="759" height="807" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1578565224319" />
     <state x="611" y="81" key="refactoring.ChangeSignatureDialog" timestamp="1578287249971">
       <screen x="0" y="0" width="1920" height="1050" />

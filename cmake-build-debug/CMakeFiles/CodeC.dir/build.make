@@ -134,18 +134,44 @@ CMakeFiles/CodeC.dir/LeetCode/competition/C170.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CodeC.dir/LeetCode/competition/C170.cpp.s"
 	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\C170.cpp -o CMakeFiles\CodeC.dir\LeetCode\competition\C170.cpp.s
 
-CMakeFiles/CodeC.dir/LeetCode/typicalQuestions/数组排序.cpp.obj: CMakeFiles/CodeC.dir/flags.make
-CMakeFiles/CodeC.dir/LeetCode/typicalQuestions/数组排序.cpp.obj: ../LeetCode/typicalQuestions/数组排序.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\MYDESK\work\LeetCode(C++)\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/CodeC.dir/LeetCode/typicalQuestions/数组排序.cpp.obj"
-	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CodeC.dir\LeetCode\typicalQuestions\数组排序.cpp.obj -c D:\MYDESK\work\LeetCode(C++)\LeetCode\typicalQuestions\数组排序.cpp
+CMakeFiles/CodeC.dir/LeetCode/typicalQuestions/sortArray.cpp.obj: CMakeFiles/CodeC.dir/flags.make
+CMakeFiles/CodeC.dir/LeetCode/typicalQuestions/sortArray.cpp.obj: ../LeetCode/typicalQuestions/sortArray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\MYDESK\work\LeetCode(C++)\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/CodeC.dir/LeetCode/typicalQuestions/sortArray.cpp.obj"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CodeC.dir\LeetCode\typicalQuestions\sortArray.cpp.obj -c D:\MYDESK\work\LeetCode(C++)\LeetCode\typicalQuestions\sortArray.cpp
 
-CMakeFiles/CodeC.dir/LeetCode/typicalQuestions/数组排序.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CodeC.dir/LeetCode/typicalQuestions/数组排序.cpp.i"
-	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\MYDESK\work\LeetCode(C++)\LeetCode\typicalQuestions\数组排序.cpp > CMakeFiles\CodeC.dir\LeetCode\typicalQuestions\数组排序.cpp.i
+CMakeFiles/CodeC.dir/LeetCode/typicalQuestions/sortArray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CodeC.dir/LeetCode/typicalQuestions/sortArray.cpp.i"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\MYDESK\work\LeetCode(C++)\LeetCode\typicalQuestions\sortArray.cpp > CMakeFiles\CodeC.dir\LeetCode\typicalQuestions\sortArray.cpp.i
 
-CMakeFiles/CodeC.dir/LeetCode/typicalQuestions/数组排序.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CodeC.dir/LeetCode/typicalQuestions/数组排序.cpp.s"
-	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\MYDESK\work\LeetCode(C++)\LeetCode\typicalQuestions\数组排序.cpp -o CMakeFiles\CodeC.dir\LeetCode\typicalQuestions\数组排序.cpp.s
+CMakeFiles/CodeC.dir/LeetCode/typicalQuestions/sortArray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CodeC.dir/LeetCode/typicalQuestions/sortArray.cpp.s"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\MYDESK\work\LeetCode(C++)\LeetCode\typicalQuestions\sortArray.cpp -o CMakeFiles\CodeC.dir\LeetCode\typicalQuestions\sortArray.cpp.s
+
+CMakeFiles/CodeC.dir/LeetCode/competition/C171.cpp.obj: CMakeFiles/CodeC.dir/flags.make
+CMakeFiles/CodeC.dir/LeetCode/competition/C171.cpp.obj: ../LeetCode/competition/C171.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\MYDESK\work\LeetCode(C++)\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/CodeC.dir/LeetCode/competition/C171.cpp.obj"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CodeC.dir\LeetCode\competition\C171.cpp.obj -c D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\C171.cpp
+
+CMakeFiles/CodeC.dir/LeetCode/competition/C171.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CodeC.dir/LeetCode/competition/C171.cpp.i"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\C171.cpp > CMakeFiles\CodeC.dir\LeetCode\competition\C171.cpp.i
+
+CMakeFiles/CodeC.dir/LeetCode/competition/C171.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CodeC.dir/LeetCode/competition/C171.cpp.s"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\C171.cpp -o CMakeFiles\CodeC.dir\LeetCode\competition\C171.cpp.s
+
+CMakeFiles/CodeC.dir/LeetCode/competition/C172.cpp.obj: CMakeFiles/CodeC.dir/flags.make
+CMakeFiles/CodeC.dir/LeetCode/competition/C172.cpp.obj: ../LeetCode/competition/C172.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\MYDESK\work\LeetCode(C++)\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/CodeC.dir/LeetCode/competition/C172.cpp.obj"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CodeC.dir\LeetCode\competition\C172.cpp.obj -c D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\C172.cpp
+
+CMakeFiles/CodeC.dir/LeetCode/competition/C172.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CodeC.dir/LeetCode/competition/C172.cpp.i"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\C172.cpp > CMakeFiles\CodeC.dir\LeetCode\competition\C172.cpp.i
+
+CMakeFiles/CodeC.dir/LeetCode/competition/C172.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CodeC.dir/LeetCode/competition/C172.cpp.s"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\C172.cpp -o CMakeFiles\CodeC.dir\LeetCode\competition\C172.cpp.s
 
 # Object files for target CodeC
 CodeC_OBJECTS = \
@@ -155,7 +181,9 @@ CodeC_OBJECTS = \
 "CMakeFiles/CodeC.dir/LeetCode/competition/C169.cpp.obj" \
 "CMakeFiles/CodeC.dir/LeetCode/topic/A653Two_Sum_IV_-_Input_is_a_BST.cpp.obj" \
 "CMakeFiles/CodeC.dir/LeetCode/competition/C170.cpp.obj" \
-"CMakeFiles/CodeC.dir/LeetCode/typicalQuestions/数组排序.cpp.obj"
+"CMakeFiles/CodeC.dir/LeetCode/typicalQuestions/sortArray.cpp.obj" \
+"CMakeFiles/CodeC.dir/LeetCode/competition/C171.cpp.obj" \
+"CMakeFiles/CodeC.dir/LeetCode/competition/C172.cpp.obj"
 
 # External object files for target CodeC
 CodeC_EXTERNAL_OBJECTS =
@@ -166,12 +194,14 @@ CodeC.exe: CMakeFiles/CodeC.dir/LeetCode/competition/D16.cpp.obj
 CodeC.exe: CMakeFiles/CodeC.dir/LeetCode/competition/C169.cpp.obj
 CodeC.exe: CMakeFiles/CodeC.dir/LeetCode/topic/A653Two_Sum_IV_-_Input_is_a_BST.cpp.obj
 CodeC.exe: CMakeFiles/CodeC.dir/LeetCode/competition/C170.cpp.obj
-CodeC.exe: CMakeFiles/CodeC.dir/LeetCode/typicalQuestions/数组排序.cpp.obj
+CodeC.exe: CMakeFiles/CodeC.dir/LeetCode/typicalQuestions/sortArray.cpp.obj
+CodeC.exe: CMakeFiles/CodeC.dir/LeetCode/competition/C171.cpp.obj
+CodeC.exe: CMakeFiles/CodeC.dir/LeetCode/competition/C172.cpp.obj
 CodeC.exe: CMakeFiles/CodeC.dir/build.make
 CodeC.exe: CMakeFiles/CodeC.dir/linklibs.rsp
 CodeC.exe: CMakeFiles/CodeC.dir/objects1.rsp
 CodeC.exe: CMakeFiles/CodeC.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\MYDESK\work\LeetCode(C++)\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable CodeC.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\MYDESK\work\LeetCode(C++)\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable CodeC.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\CodeC.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

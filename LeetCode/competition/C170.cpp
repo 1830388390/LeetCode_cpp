@@ -138,7 +138,3 @@ public:
     }
 
 };
-
-int main() {
-    C170::freqAlphabets("25#");
-}

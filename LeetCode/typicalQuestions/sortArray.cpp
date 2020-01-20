@@ -81,7 +81,7 @@ public:
     void quickSort(vector<int> &nums, int l, int r) {
         // 右基准版
         if (l >= r) { return; } // 左右指针相遇
-        // 增加随机性,若排序数组已排好序,不进行替换复杂度会为O(n),此时的基准数为nums[r]
+        // 增加随机性,若排序数组已排好序,不进行替换复杂度会为O(n^2),此时的基准数为nums[r]
         swap(nums[r], nums[rand() % (r - l + 1) + l]);
         int cur = l; // 最右侧节点应该在数组中的位置,相当于查找第k个数
         for (int i = l; i < r; i++) {
@@ -92,7 +92,7 @@ public:
             }
         }
         // 此时cur所指的位置即为num[r]在数组中的对应位置
-        // **若使用左基准,cur此时指的位置恰好是第一个大于(位置上讲)num[r]的位置,需将cur--然后再替换**
+        // **若使用左基准,cur此时指的位置恰好是第一个大于(位置上讲)father[r]的位置,需将cur--然后再替换**
         swap(nums[cur], nums[r]);
         quickSort(nums, l, cur - 1);
         quickSort(nums, cur + 1, r);
@@ -142,7 +142,7 @@ public:
             } else if (nums[i] < standard) {
                 swap(nums[i++], nums[left++]);
             } else {
-                //由于num[tr]没有被访问过,所以要进行一次比较,i不变
+                //由于num[right]没有被访问过,所以要进行一次比较,i不变
                 swap(nums[i], nums[right--]);
             }
         }
