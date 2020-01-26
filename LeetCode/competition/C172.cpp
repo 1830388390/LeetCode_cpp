@@ -6,11 +6,34 @@
 #include <string>
 #include <iostream>
 #include <algorithm>
+#include <stack>
 
 using namespace std;
 
 class Solution {
 public:
+
+
+    int maximum69Number(int num) {
+        stack<int> nums;
+        while (num != 0) {
+            nums.push(num % 10);
+            num /= 10;
+        }
+        int res = 0;
+        bool isSix = false;
+        while (!nums.empty()) {
+            int t = nums.top();nums.pop();
+            if (t == 6 && !isSix){
+                res = res*10 + 9;
+                isSix = true;
+            } else{
+                res = res*10 + t;
+            }
+        }
+        return res;
+    }
+
     vector<string> printVertically(string s) {
         vector<string> strs = split(s, " ");
         int maxLength = 0;

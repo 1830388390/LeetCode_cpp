@@ -5,6 +5,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/CodeC.dir/LeetCode/competition/C170.cpp.obj"
   "CMakeFiles/CodeC.dir/LeetCode/competition/C171.cpp.obj"
   "CMakeFiles/CodeC.dir/LeetCode/competition/C172.cpp.obj"
+  "CMakeFiles/CodeC.dir/LeetCode/competition/C173.cpp.obj"
   "CMakeFiles/CodeC.dir/LeetCode/competition/D16.cpp.obj"
   "CMakeFiles/CodeC.dir/LeetCode/topic/A653Two_Sum_IV_-_Input_is_a_BST.cpp.obj"
   "CMakeFiles/CodeC.dir/LeetCode/typicalQuestions/sortArray.cpp.obj"
