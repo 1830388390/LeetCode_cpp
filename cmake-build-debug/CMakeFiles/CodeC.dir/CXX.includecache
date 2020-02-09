@@ -6,12 +6,10 @@
 
 #IncludeRegexTransform: 
 
-D:/MYDESK/work/LeetCode(C++)/LeetCode/competition/C171.cpp
-string
--
-unordered_map
--
+D:/MYDESK/work/LeetCode(C++)/LeetCode/competition/C174.cpp
 vector
+-
+algorithm
 -
 iostream
 -

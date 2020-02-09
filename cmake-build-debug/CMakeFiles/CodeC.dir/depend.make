@@ -11,7 +11,15 @@ CMakeFiles/CodeC.dir/LeetCode/competition/C170.cpp.obj: ../LeetCode/competition/
 
 CMakeFiles/CodeC.dir/LeetCode/competition/C171.cpp.obj: ../LeetCode/competition/C171.cpp
 
+CMakeFiles/CodeC.dir/LeetCode/competition/C172.cpp.obj: ../LeetCode/competition/C172.cpp
+
+CMakeFiles/CodeC.dir/LeetCode/competition/C173.cpp.obj: ../LeetCode/competition/C173.cpp
+
+CMakeFiles/CodeC.dir/LeetCode/competition/C174.cpp.obj: ../LeetCode/competition/C174.cpp
+
 CMakeFiles/CodeC.dir/LeetCode/competition/D16.cpp.obj: ../LeetCode/competition/D16.cpp
+
+CMakeFiles/CodeC.dir/LeetCode/competition/D18.cpp.obj: ../LeetCode/competition/D18.cpp
 
 CMakeFiles/CodeC.dir/LeetCode/topic/A653Two_Sum_IV_-_Input_is_a_BST.cpp.obj: ../LeetCode/topic/A653Two\ Sum\ IV\ -\ Input\ is\ a\ BST.cpp
 

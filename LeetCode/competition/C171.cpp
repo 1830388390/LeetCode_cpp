@@ -192,7 +192,3 @@ public:
         return times;
     }
 };
-int main(){
-    C171 a;
-    a.minFlips(2,6,5);
-}

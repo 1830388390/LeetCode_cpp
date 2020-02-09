@@ -311,6 +311,33 @@ LeetCode/competition/C173.cpp.s:
 	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/C173.cpp.s
 .PHONY : LeetCode/competition/C173.cpp.s
 
+LeetCode/competition/C174.obj: LeetCode/competition/C174.cpp.obj
+
+.PHONY : LeetCode/competition/C174.obj
+
+# target to build an object file
+LeetCode/competition/C174.cpp.obj:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/C174.cpp.obj
+.PHONY : LeetCode/competition/C174.cpp.obj
+
+LeetCode/competition/C174.i: LeetCode/competition/C174.cpp.i
+
+.PHONY : LeetCode/competition/C174.i
+
+# target to preprocess a source file
+LeetCode/competition/C174.cpp.i:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/C174.cpp.i
+.PHONY : LeetCode/competition/C174.cpp.i
+
+LeetCode/competition/C174.s: LeetCode/competition/C174.cpp.s
+
+.PHONY : LeetCode/competition/C174.s
+
+# target to generate assembly for a file
+LeetCode/competition/C174.cpp.s:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/C174.cpp.s
+.PHONY : LeetCode/competition/C174.cpp.s
+
 LeetCode/competition/D16.obj: LeetCode/competition/D16.cpp.obj
 
 .PHONY : LeetCode/competition/D16.obj
@@ -337,6 +364,60 @@ LeetCode/competition/D16.s: LeetCode/competition/D16.cpp.s
 LeetCode/competition/D16.cpp.s:
 	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/D16.cpp.s
 .PHONY : LeetCode/competition/D16.cpp.s
+
+LeetCode/competition/D18.obj: LeetCode/competition/D18.cpp.obj
+
+.PHONY : LeetCode/competition/D18.obj
+
+# target to build an object file
+LeetCode/competition/D18.cpp.obj:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/D18.cpp.obj
+.PHONY : LeetCode/competition/D18.cpp.obj
+
+LeetCode/competition/D18.i: LeetCode/competition/D18.cpp.i
+
+.PHONY : LeetCode/competition/D18.i
+
+# target to preprocess a source file
+LeetCode/competition/D18.cpp.i:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/D18.cpp.i
+.PHONY : LeetCode/competition/D18.cpp.i
+
+LeetCode/competition/D18.s: LeetCode/competition/D18.cpp.s
+
+.PHONY : LeetCode/competition/D18.s
+
+# target to generate assembly for a file
+LeetCode/competition/D18.cpp.s:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/D18.cpp.s
+.PHONY : LeetCode/competition/D18.cpp.s
+
+LeetCode/competition/D19.obj: LeetCode/competition/D19.cpp.obj
+
+.PHONY : LeetCode/competition/D19.obj
+
+# target to build an object file
+LeetCode/competition/D19.cpp.obj:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/D19.cpp.obj
+.PHONY : LeetCode/competition/D19.cpp.obj
+
+LeetCode/competition/D19.i: LeetCode/competition/D19.cpp.i
+
+.PHONY : LeetCode/competition/D19.i
+
+# target to preprocess a source file
+LeetCode/competition/D19.cpp.i:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/D19.cpp.i
+.PHONY : LeetCode/competition/D19.cpp.i
+
+LeetCode/competition/D19.s: LeetCode/competition/D19.cpp.s
+
+.PHONY : LeetCode/competition/D19.s
+
+# target to generate assembly for a file
+LeetCode/competition/D19.cpp.s:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/D19.cpp.s
+.PHONY : LeetCode/competition/D19.cpp.s
 
 LeetCode/topic/A653Two_Sum_IV_-_Input_is_a_BST.obj: LeetCode/topic/A653Two_Sum_IV_-_Input_is_a_BST.cpp.obj
 
@@ -422,9 +503,18 @@ help:
 	@echo ... LeetCode/competition/C173.obj
 	@echo ... LeetCode/competition/C173.i
 	@echo ... LeetCode/competition/C173.s
+	@echo ... LeetCode/competition/C174.obj
+	@echo ... LeetCode/competition/C174.i
+	@echo ... LeetCode/competition/C174.s
 	@echo ... LeetCode/competition/D16.obj
 	@echo ... LeetCode/competition/D16.i
 	@echo ... LeetCode/competition/D16.s
+	@echo ... LeetCode/competition/D18.obj
+	@echo ... LeetCode/competition/D18.i
+	@echo ... LeetCode/competition/D18.s
+	@echo ... LeetCode/competition/D19.obj
+	@echo ... LeetCode/competition/D19.i
+	@echo ... LeetCode/competition/D19.s
 	@echo ... LeetCode/topic/A653Two_Sum_IV_-_Input_is_a_BST.obj
 	@echo ... LeetCode/topic/A653Two_Sum_IV_-_Input_is_a_BST.i
 	@echo ... LeetCode/topic/A653Two_Sum_IV_-_Input_is_a_BST.s
