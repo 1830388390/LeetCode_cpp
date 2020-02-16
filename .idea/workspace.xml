@@ -12,25 +12,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="022e502f-d52d-41eb-a610-02da50b3d9d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/competition/C174.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/competition/D18.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/competition/D19.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/competition/C175.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/competition/C176.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/competition/C171.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/competition/C171.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/LeetCode/competition/C171.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/LeetCode/competition/C171.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/objects.a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/objects1.rsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CodeC.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CodeC.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CodeC.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/LeetCode.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/LeetCode.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
     </list>
@@ -162,6 +154,9 @@
       <workItem from="1580634717132" duration="2686000" />
       <workItem from="1581171569491" duration="6394000" />
       <workItem from="1581211465978" duration="772000" />
+      <workItem from="1581344205525" duration="5346000" />
+      <workItem from="1581512928448" duration="167000" />
+      <workItem from="1581832614073" duration="3949000" />
     </task>
     <servers />
   </component>
@@ -244,10 +239,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="463" y="169" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1578578038460" />
-    <state x="464" y="96" width="755" height="641" key="find.popup" timestamp="1580636358555">
+    <state x="464" y="96" width="755" height="641" key="find.popup" timestamp="1581345656484">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="464" y="96" width="755" height="641" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1580636358555" />
+    <state x="464" y="96" width="755" height="641" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1581345656484" />
     <state x="580" y="121" width="759" height="807" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1578565224319" />
     <state x="611" y="81" key="refactoring.ChangeSignatureDialog" timestamp="1578287249971">
       <screen x="0" y="0" width="1920" height="1050" />

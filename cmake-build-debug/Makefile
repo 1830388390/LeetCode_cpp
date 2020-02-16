@@ -338,6 +338,60 @@ LeetCode/competition/C174.cpp.s:
 	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/C174.cpp.s
 .PHONY : LeetCode/competition/C174.cpp.s
 
+LeetCode/competition/C175.obj: LeetCode/competition/C175.cpp.obj
+
+.PHONY : LeetCode/competition/C175.obj
+
+# target to build an object file
+LeetCode/competition/C175.cpp.obj:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/C175.cpp.obj
+.PHONY : LeetCode/competition/C175.cpp.obj
+
+LeetCode/competition/C175.i: LeetCode/competition/C175.cpp.i
+
+.PHONY : LeetCode/competition/C175.i
+
+# target to preprocess a source file
+LeetCode/competition/C175.cpp.i:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/C175.cpp.i
+.PHONY : LeetCode/competition/C175.cpp.i
+
+LeetCode/competition/C175.s: LeetCode/competition/C175.cpp.s
+
+.PHONY : LeetCode/competition/C175.s
+
+# target to generate assembly for a file
+LeetCode/competition/C175.cpp.s:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/C175.cpp.s
+.PHONY : LeetCode/competition/C175.cpp.s
+
+LeetCode/competition/C176.obj: LeetCode/competition/C176.cpp.obj
+
+.PHONY : LeetCode/competition/C176.obj
+
+# target to build an object file
+LeetCode/competition/C176.cpp.obj:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/C176.cpp.obj
+.PHONY : LeetCode/competition/C176.cpp.obj
+
+LeetCode/competition/C176.i: LeetCode/competition/C176.cpp.i
+
+.PHONY : LeetCode/competition/C176.i
+
+# target to preprocess a source file
+LeetCode/competition/C176.cpp.i:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/C176.cpp.i
+.PHONY : LeetCode/competition/C176.cpp.i
+
+LeetCode/competition/C176.s: LeetCode/competition/C176.cpp.s
+
+.PHONY : LeetCode/competition/C176.s
+
+# target to generate assembly for a file
+LeetCode/competition/C176.cpp.s:
+	$(MAKE) -f CMakeFiles\CodeC.dir\build.make CMakeFiles/CodeC.dir/LeetCode/competition/C176.cpp.s
+.PHONY : LeetCode/competition/C176.cpp.s
+
 LeetCode/competition/D16.obj: LeetCode/competition/D16.cpp.obj
 
 .PHONY : LeetCode/competition/D16.obj
@@ -506,6 +560,12 @@ help:
 	@echo ... LeetCode/competition/C174.obj
 	@echo ... LeetCode/competition/C174.i
 	@echo ... LeetCode/competition/C174.s
+	@echo ... LeetCode/competition/C175.obj
+	@echo ... LeetCode/competition/C175.i
+	@echo ... LeetCode/competition/C175.s
+	@echo ... LeetCode/competition/C176.obj
+	@echo ... LeetCode/competition/C176.i
+	@echo ... LeetCode/competition/C176.s
 	@echo ... LeetCode/competition/D16.obj
 	@echo ... LeetCode/competition/D16.i
 	@echo ... LeetCode/competition/D16.s

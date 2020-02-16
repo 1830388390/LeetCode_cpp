@@ -7,6 +7,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/CodeC.dir/LeetCode/competition/C172.cpp.obj"
   "CMakeFiles/CodeC.dir/LeetCode/competition/C173.cpp.obj"
   "CMakeFiles/CodeC.dir/LeetCode/competition/C174.cpp.obj"
+  "CMakeFiles/CodeC.dir/LeetCode/competition/C175.cpp.obj"
+  "CMakeFiles/CodeC.dir/LeetCode/competition/C176.cpp.obj"
   "CMakeFiles/CodeC.dir/LeetCode/competition/D16.cpp.obj"
   "CMakeFiles/CodeC.dir/LeetCode/competition/D18.cpp.obj"
   "CMakeFiles/CodeC.dir/LeetCode/competition/D19.cpp.obj"
