@@ -251,6 +251,84 @@ CMakeFiles/CodeC.dir/LeetCode/competition/C176.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CodeC.dir/LeetCode/competition/C176.cpp.s"
 	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\C176.cpp -o CMakeFiles\CodeC.dir\LeetCode\competition\C176.cpp.s
 
+CMakeFiles/CodeC.dir/LeetCode/competition/D20.cpp.obj: CMakeFiles/CodeC.dir/flags.make
+CMakeFiles/CodeC.dir/LeetCode/competition/D20.cpp.obj: ../LeetCode/competition/D20.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\MYDESK\work\LeetCode(C++)\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/CodeC.dir/LeetCode/competition/D20.cpp.obj"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CodeC.dir\LeetCode\competition\D20.cpp.obj -c D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\D20.cpp
+
+CMakeFiles/CodeC.dir/LeetCode/competition/D20.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CodeC.dir/LeetCode/competition/D20.cpp.i"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\D20.cpp > CMakeFiles\CodeC.dir\LeetCode\competition\D20.cpp.i
+
+CMakeFiles/CodeC.dir/LeetCode/competition/D20.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CodeC.dir/LeetCode/competition/D20.cpp.s"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\D20.cpp -o CMakeFiles\CodeC.dir\LeetCode\competition\D20.cpp.s
+
+CMakeFiles/CodeC.dir/LeetCode/competition/C177.cpp.obj: CMakeFiles/CodeC.dir/flags.make
+CMakeFiles/CodeC.dir/LeetCode/competition/C177.cpp.obj: ../LeetCode/competition/C177.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\MYDESK\work\LeetCode(C++)\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/CodeC.dir/LeetCode/competition/C177.cpp.obj"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CodeC.dir\LeetCode\competition\C177.cpp.obj -c D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\C177.cpp
+
+CMakeFiles/CodeC.dir/LeetCode/competition/C177.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CodeC.dir/LeetCode/competition/C177.cpp.i"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\C177.cpp > CMakeFiles\CodeC.dir\LeetCode\competition\C177.cpp.i
+
+CMakeFiles/CodeC.dir/LeetCode/competition/C177.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CodeC.dir/LeetCode/competition/C177.cpp.s"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\C177.cpp -o CMakeFiles\CodeC.dir\LeetCode\competition\C177.cpp.s
+
+CMakeFiles/CodeC.dir/LeetCode/competition/C178.cpp.obj: CMakeFiles/CodeC.dir/flags.make
+CMakeFiles/CodeC.dir/LeetCode/competition/C178.cpp.obj: ../LeetCode/competition/C178.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\MYDESK\work\LeetCode(C++)\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/CodeC.dir/LeetCode/competition/C178.cpp.obj"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CodeC.dir\LeetCode\competition\C178.cpp.obj -c D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\C178.cpp
+
+CMakeFiles/CodeC.dir/LeetCode/competition/C178.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CodeC.dir/LeetCode/competition/C178.cpp.i"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\C178.cpp > CMakeFiles\CodeC.dir\LeetCode\competition\C178.cpp.i
+
+CMakeFiles/CodeC.dir/LeetCode/competition/C178.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CodeC.dir/LeetCode/competition/C178.cpp.s"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\C178.cpp -o CMakeFiles\CodeC.dir\LeetCode\competition\C178.cpp.s
+
+CMakeFiles/CodeC.dir/LeetCode/competition/Node.cpp.obj: CMakeFiles/CodeC.dir/flags.make
+CMakeFiles/CodeC.dir/LeetCode/competition/Node.cpp.obj: ../LeetCode/competition/Node.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\MYDESK\work\LeetCode(C++)\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/CodeC.dir/LeetCode/competition/Node.cpp.obj"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CodeC.dir\LeetCode\competition\Node.cpp.obj -c D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\Node.cpp
+
+CMakeFiles/CodeC.dir/LeetCode/competition/Node.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CodeC.dir/LeetCode/competition/Node.cpp.i"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\Node.cpp > CMakeFiles\CodeC.dir\LeetCode\competition\Node.cpp.i
+
+CMakeFiles/CodeC.dir/LeetCode/competition/Node.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CodeC.dir/LeetCode/competition/Node.cpp.s"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\Node.cpp -o CMakeFiles\CodeC.dir\LeetCode\competition\Node.cpp.s
+
+CMakeFiles/CodeC.dir/LeetCode/competition/D21.cpp.obj: CMakeFiles/CodeC.dir/flags.make
+CMakeFiles/CodeC.dir/LeetCode/competition/D21.cpp.obj: ../LeetCode/competition/D21.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\MYDESK\work\LeetCode(C++)\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/CodeC.dir/LeetCode/competition/D21.cpp.obj"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CodeC.dir\LeetCode\competition\D21.cpp.obj -c D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\D21.cpp
+
+CMakeFiles/CodeC.dir/LeetCode/competition/D21.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CodeC.dir/LeetCode/competition/D21.cpp.i"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\D21.cpp > CMakeFiles\CodeC.dir\LeetCode\competition\D21.cpp.i
+
+CMakeFiles/CodeC.dir/LeetCode/competition/D21.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CodeC.dir/LeetCode/competition/D21.cpp.s"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\D21.cpp -o CMakeFiles\CodeC.dir\LeetCode\competition\D21.cpp.s
+
+CMakeFiles/CodeC.dir/LeetCode/competition/C179.cpp.obj: CMakeFiles/CodeC.dir/flags.make
+CMakeFiles/CodeC.dir/LeetCode/competition/C179.cpp.obj: ../LeetCode/competition/C179.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\MYDESK\work\LeetCode(C++)\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/CodeC.dir/LeetCode/competition/C179.cpp.obj"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CodeC.dir\LeetCode\competition\C179.cpp.obj -c D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\C179.cpp
+
+CMakeFiles/CodeC.dir/LeetCode/competition/C179.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CodeC.dir/LeetCode/competition/C179.cpp.i"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\C179.cpp > CMakeFiles\CodeC.dir\LeetCode\competition\C179.cpp.i
+
+CMakeFiles/CodeC.dir/LeetCode/competition/C179.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CodeC.dir/LeetCode/competition/C179.cpp.s"
+	E:\MYTOOL\clion\MINGW\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\MYDESK\work\LeetCode(C++)\LeetCode\competition\C179.cpp -o CMakeFiles\CodeC.dir\LeetCode\competition\C179.cpp.s
+
 # Object files for target CodeC
 CodeC_OBJECTS = \
 "CMakeFiles/CodeC.dir/LeetCode/competition/C166.cpp.obj" \
@@ -267,7 +345,13 @@ CodeC_OBJECTS = \
 "CMakeFiles/CodeC.dir/LeetCode/competition/C174.cpp.obj" \
 "CMakeFiles/CodeC.dir/LeetCode/competition/D19.cpp.obj" \
 "CMakeFiles/CodeC.dir/LeetCode/competition/C175.cpp.obj" \
-"CMakeFiles/CodeC.dir/LeetCode/competition/C176.cpp.obj"
+"CMakeFiles/CodeC.dir/LeetCode/competition/C176.cpp.obj" \
+"CMakeFiles/CodeC.dir/LeetCode/competition/D20.cpp.obj" \
+"CMakeFiles/CodeC.dir/LeetCode/competition/C177.cpp.obj" \
+"CMakeFiles/CodeC.dir/LeetCode/competition/C178.cpp.obj" \
+"CMakeFiles/CodeC.dir/LeetCode/competition/Node.cpp.obj" \
+"CMakeFiles/CodeC.dir/LeetCode/competition/D21.cpp.obj" \
+"CMakeFiles/CodeC.dir/LeetCode/competition/C179.cpp.obj"
 
 # External object files for target CodeC
 CodeC_EXTERNAL_OBJECTS =
@@ -287,11 +371,17 @@ CodeC.exe: CMakeFiles/CodeC.dir/LeetCode/competition/C174.cpp.obj
 CodeC.exe: CMakeFiles/CodeC.dir/LeetCode/competition/D19.cpp.obj
 CodeC.exe: CMakeFiles/CodeC.dir/LeetCode/competition/C175.cpp.obj
 CodeC.exe: CMakeFiles/CodeC.dir/LeetCode/competition/C176.cpp.obj
+CodeC.exe: CMakeFiles/CodeC.dir/LeetCode/competition/D20.cpp.obj
+CodeC.exe: CMakeFiles/CodeC.dir/LeetCode/competition/C177.cpp.obj
+CodeC.exe: CMakeFiles/CodeC.dir/LeetCode/competition/C178.cpp.obj
+CodeC.exe: CMakeFiles/CodeC.dir/LeetCode/competition/Node.cpp.obj
+CodeC.exe: CMakeFiles/CodeC.dir/LeetCode/competition/D21.cpp.obj
+CodeC.exe: CMakeFiles/CodeC.dir/LeetCode/competition/C179.cpp.obj
 CodeC.exe: CMakeFiles/CodeC.dir/build.make
 CodeC.exe: CMakeFiles/CodeC.dir/linklibs.rsp
 CodeC.exe: CMakeFiles/CodeC.dir/objects1.rsp
 CodeC.exe: CMakeFiles/CodeC.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\MYDESK\work\LeetCode(C++)\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable CodeC.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\MYDESK\work\LeetCode(C++)\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Linking CXX executable CodeC.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\CodeC.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
