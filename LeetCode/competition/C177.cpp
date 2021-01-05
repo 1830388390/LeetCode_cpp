@@ -98,37 +98,7 @@ public:
     }
 //日期格式为yyyy-mm-dd
 //求两个日期之间的相隔天数
-    int daysBetweenDates(string date1, string date2) {
-        const char *bgDate = date1.c_str();
-        const char *exDate = date2.c_str();
-        if (bgDate == NULL || exDate == NULL)
-            return 0;
-        int by, bm, bd, ey, em, ed;
-        int days = 0;
-        if (strcmp(bgDate, exDate) > 0) {
-            sscanf(exDate, "%d-%d-%d", &by, &bm, &bd);
-            sscanf(bgDate, "%d-%d-%d", &ey, &em, &ed);
-        } else{
-            sscanf(bgDate, "%d-%d-%d", &by, &bm, &bd);
-            sscanf(exDate, "%d-%d-%d", &ey, &em, &ed);
-        }
 
-
-        if (ey - by >= 1) {
-            days += ((ey - (by + 1)) / 4) * (365 * 3 + 366);
-            int tmp = (ey - (by + 1)) % 4;
-            for (int i = 1; i <= tmp; ++i) {
-                if (IsLeapYear(by + 1))
-                    days += 366;
-                else
-                    days += 365;
-            }
-            days += (GetRemainDays(by, bm, bd) + GetNowDays(ey, em, ed));
-        } else {
-            days += (GetNowDays(ey, em, ed) - GetNowDays(by, bm, bd));
-        }
-        return days;
-    }
 
     bool validateBinaryTreeNodes(int n, vector<int> &leftChild, vector<int> &rightChild) {
         int max = -1;
@@ -165,7 +135,4 @@ public:
         return set.size() == n;
     }
 
-    vector<int> closestDivisors(int num) {
-
-    }
 };

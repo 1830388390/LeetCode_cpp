@@ -211,7 +211,7 @@ public:
 
     void siftdown(vector<int> &nums, int root, int size) {
         /**
-         * 构造大顶堆的下浮操作
+         * 构造大顶堆的下沉操作
          */
         while (2 * root + 1 < size) { // 当p存在孩子时
             int c1 = 2 * root + 1; // p节点的左孩子

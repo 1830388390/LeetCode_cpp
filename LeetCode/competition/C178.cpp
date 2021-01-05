@@ -141,7 +141,7 @@ public:
         queue<pp> q;
         pp r = make_pair(head, root);
         q.push(r);
-        while (!q.empty()) {
+        while (!q.empty() ) {
             pp tmp = q.front();
             q.pop();
             if (tmp.first == nullptr) {
@@ -162,6 +162,17 @@ public:
     int minCost(vector<vector<int>>& grid) {
         
     }
-
+    ListNode* removeElements(ListNode* head, int val) {
+        ListNode *p;
+        if(head == nullptr) return nullptr;
+        if(head->val == val){
+            p = head;
+            head = head->next;
+            free(p);
+            removeElements(head,val);
+        }else{
+            removeElements(head->next,val);
+        }
+    }
 
 };

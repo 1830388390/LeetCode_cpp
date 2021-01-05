@@ -119,6 +119,12 @@
 		<Unit filename="D:/MYDESK/work/LeetCode(C++)/LeetCode/competition/C179.cpp">
 			<Option target="CodeC"/>
 		</Unit>
+		<Unit filename="D:/MYDESK/work/LeetCode(C++)/LeetCode/competition/C180.cpp">
+			<Option target="CodeC"/>
+		</Unit>
+		<Unit filename="D:/MYDESK/work/LeetCode(C++)/LeetCode/competition/C181.cpp">
+			<Option target="CodeC"/>
+		</Unit>
 		<Unit filename="D:/MYDESK/work/LeetCode(C++)/LeetCode/competition/D16.cpp">
 			<Option target="CodeC"/>
 		</Unit>
@@ -135,6 +141,12 @@
 			<Option target="CodeC"/>
 		</Unit>
 		<Unit filename="D:/MYDESK/work/LeetCode(C++)/LeetCode/competition/Node.cpp">
+			<Option target="CodeC"/>
+		</Unit>
+		<Unit filename="D:/MYDESK/work/LeetCode(C++)/LeetCode/competition/s.cpp">
+			<Option target="CodeC"/>
+		</Unit>
+		<Unit filename="D:/MYDESK/work/LeetCode(C++)/LeetCode/solution/A605.cpp">
 			<Option target="CodeC"/>
 		</Unit>
 		<Unit filename="D:/MYDESK/work/LeetCode(C++)/LeetCode/topic/A653Two Sum IV - Input is a BST.cpp">
